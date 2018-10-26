@@ -75,3 +75,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Velvet_Megashark/Intermediate/CachedAssetRegistry.bin
+Velvet_Megashark/Saved/Config/Windows/Engine.ini
+Velvet_Megashark/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Velvet_Megashark/Saved/AutoScreenshot.png
+Velvet_Megashark/Saved/Autosaves/PackageRestoreData.json
+Velvet_Megashark/Intermediate/CachedAssetRegistry.bin
