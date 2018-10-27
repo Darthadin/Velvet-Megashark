@@ -83,3 +83,5 @@ Velvet_Megashark/Saved/Autosaves/PackageRestoreData.json
 Velvet_Megashark/Intermediate/CachedAssetRegistry.bin
 *.log
 Velvet_Megashark/Saved/Logs/Velvet_Megashark.log
+*.ini
+*.ini
