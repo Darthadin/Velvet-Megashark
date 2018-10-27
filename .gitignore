@@ -81,3 +81,10 @@ Velvet_Megashark/Saved/Config/Windows/EditorPerProjectUserSettings.ini
 Velvet_Megashark/Saved/AutoScreenshot.png
 Velvet_Megashark/Saved/Autosaves/PackageRestoreData.json
 Velvet_Megashark/Intermediate/CachedAssetRegistry.bin
+*.log
+Velvet_Megashark/Saved/Logs/Velvet_Megashark.log
+*.ini
+*.ini
+*.json
+*.bin
+*.log
