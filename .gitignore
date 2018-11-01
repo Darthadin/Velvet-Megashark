@@ -3,24 +3,21 @@
 Brickadia.sln
 
 # Ignore generated folders
-Binaries/*
-Build/*
-Intermediate/*
-DerivedDataCache/*
-Saved/*
-Config/*
+Binaries/
+Build/
+Intermediate/
+DerivedDataCache/
+Saved/
+Config/
 
-# Don't ignore icon files in Build
-!Build/**/*.ico
+# Don't ignore screenshot in Saved
+!Saved/**/*.png
 
 # Ignore lightmaps
 *_BuiltData.uasset
 
-# Ignore blender backups
-*.blend
-
 # Ignore plugins
-Plugins/*
+Plugins/
 
 # Ignore packaging folders
 TestBuild/
@@ -28,4 +25,3 @@ TestBuild_Shipping/
 
 # Ignore test stuff
 .ini
-.uproject

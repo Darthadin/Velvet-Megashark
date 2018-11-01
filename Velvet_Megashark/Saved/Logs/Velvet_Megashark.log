@@ -19085,3 +19085,32 @@ LogInit: Object subsystem initialized
 [2018.11.01-15.29.15:481][299]LogPlayLevel: Display: Destroying online subsystem :Context_39
 [2018.11.01-15.29.20:826][533]LogSavePackage: Moving '../../../../../../Users/Light/Documents/GitHub/Velvet-Megashark/Velvet_Megashark/Saved/AI_Test_Level518C7445459171453B49A8ABBAFAE6A1.tmp' to '../../../../../../Users/Light/Documents/GitHub/Velvet-Megashark/Velvet_Megashark/Content/Ligh-assets/AI_Test_Level.umap'
 [2018.11.01-15.29.20:914][533]LogFileHelpers: Saving map 'AI_Test_Level' took 0.467
+[2018.11.01-15.37.20:622][123]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Adin-VFX/BP_Element.
+[2018.11.01-15.37.20:627][123]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Adin-VFX/BP_Element_Gate.
+[2018.11.01-15.37.20:695][123]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Game/Blueprints/BP_FlyingPawn.
+[2018.11.01-15.37.20:698][123]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Game/Blueprints/FlyingGameMode.
+[2018.11.01-15.37.20:702][123]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Game/L_Wisp-Test.
+[2018.11.01-15.37.20:705][123]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Light-assets/AI/AI_COntroller.
+[2018.11.01-15.37.20:713][123]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Light-assets/AI/AI_Test_BP.
+[2018.11.01-15.37.20:721][123]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Light-assets/AI/GetMoveLocation.
+[2018.11.01-15.37.20:727][123]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Light-assets/Creatures/Anim_BP/Deer_Anim_BP.
+[2018.11.01-15.37.21:203][124]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Nate-assets/balloflight.
+[2018.11.01-15.37.36:019][169]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Light-assets/AI/AI_Test_BP_Auto1.
+[2018.11.01-15.37.37:111][172]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Adin-VFX/Materials/Deer_Anim_BP_2018-11-01-11-16-46.
+[2018.11.01-15.37.37:126][172]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Adin-VFX/Materials/Deer_Anim_BP_2018-11-01-11-00-12.
+[2018.11.01-15.37.37:141][172]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Adin-VFX/Materials/Deer_Anim_BP_2018-11-01-10-48-46.
+[2018.11.01-15.37.37:159][172]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Adin-VFX/Materials/AI_Test_BP_2018-11-01-11-00-12.
+[2018.11.01-15.37.37:161][172]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Adin-VFX/Materials/AI_Test_BP_2018-11-01-10-48-46.
+[2018.11.01-15.39.20:773][481]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Ligh-assets/AI_Test_Level' took 0.043
+[2018.11.01-15.39.20:775][481]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ligh-assets/AI/AI_Test_BP] ([1] browsable assets)...
+[2018.11.01-15.39.20:820][481]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Ligh-assets/AI/AI_Test_BP.AI_Test_BP]
+[2018.11.01-15.39.20:820][481]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ligh-assets/AI/AI_Test_BP]
+[2018.11.01-15.39.20:861][481]LogSavePackage: Moving '../../../../../../Users/Light/Documents/GitHub/Velvet-Megashark/Velvet_Megashark/Saved/AI_Test_BP_Auto49FE7C12B43DBB6D43F011FA49B40A6B0.tmp' to '../../../../../../Users/Light/Documents/GitHub/Velvet-Megashark/Velvet_Megashark/Saved/Autosaves/Game/Ligh-assets/AI/AI_Test_BP_Auto4.uasset'
+[2018.11.01-15.39.20:863][481]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ligh-assets/AI/AI_COntroller] ([1] browsable assets)...
+[2018.11.01-15.39.20:863][481]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ligh-assets/AI/AI_COntroller]
+[2018.11.01-15.39.21:123][481]LogSavePackage: Moving '../../../../../../Users/Light/Documents/GitHub/Velvet-Megashark/Velvet_Megashark/Saved/AI_COntroller_Auto4CF6D33574F2A19250EE89E8FBFC4DBC3.tmp' to '../../../../../../Users/Light/Documents/GitHub/Velvet-Megashark/Velvet_Megashark/Saved/Autosaves/Game/Ligh-assets/AI/AI_COntroller_Auto4.uasset'
+[2018.11.01-15.39.21:126][481]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ligh-assets/Creatures/Anim_BP/Deer_Anim_BP] ([1] browsable assets)...
+[2018.11.01-15.39.21:164][481]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Ligh-assets/Creatures/Anim_BP/Deer_Anim_BP.Deer_Anim_BP]
+[2018.11.01-15.39.21:164][481]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ligh-assets/Creatures/Anim_BP/Deer_Anim_BP]
+[2018.11.01-15.39.21:219][481]LogSavePackage: Moving '../../../../../../Users/Light/Documents/GitHub/Velvet-Megashark/Velvet_Megashark/Saved/Deer_Anim_BP_Auto4680EFF3F42E2702CD388C0891C76AE6D.tmp' to '../../../../../../Users/Light/Documents/GitHub/Velvet-Megashark/Velvet_Megashark/Saved/Autosaves/Game/Ligh-assets/Creatures/Anim_BP/Deer_Anim_BP_Auto4.uasset'
+[2018.11.01-15.39.21:221][481]LogFileHelpers: Auto-saving content packages took 0.446
