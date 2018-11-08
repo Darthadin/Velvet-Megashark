@@ -5,8 +5,13 @@
 	"Description": "",
 	"Plugins": [
 		{
+<<<<<<< HEAD
 			"Name": "HoudiniEngine",
 			"Enabled": false
+=======
+			"Name": "Niagara",
+			"Enabled": true
+>>>>>>> 81ace70484cd352de41ad7189b110512157faf51
 		}
 	]
 }
